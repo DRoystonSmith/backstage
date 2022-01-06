@@ -33,7 +33,6 @@
     "@backstage/core-components": "^0.8.2",
     "@backstage/config": "^0.1.11",
     "@backstage/core-plugin-api": "^0.4.0",
-    "@backstage/plugin-permission-common": "^0.2.0",
     "@backstage/theme": "^0.2.14",
     "@backstage/types": "^0.1.1",
     "@backstage/version-bridge": "^0.1.1",
